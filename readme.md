@@ -7,12 +7,12 @@
 Usage:
 
 ```
-python3 dirscan.py URL文件 file文件名 线程数
+python3 dirscan.py 域名文件 字典文件 线程数
 ```
 
 Example:
 
 ```
-python3 dirscan.py url.txt ditc.txt 10
+python3 dirscan.py domains.txt ditc.txt 10
 ```
 
